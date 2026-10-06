@@ -4,7 +4,7 @@
   ## <img src=".github/assets/tux.svg" alt="tux" height="100">
 
   Amalgam fork made to run on Linux / Proton. Insecure dialog bypass included.
-  [Injecting guide](https://github.com/linuxgamer/Amalgam-Linux/wiki)
+  [Injecting guide](docs/INJECTING.md)
 
   [![Download](.github/assets/download.svg)](https://nightly.link/cooldog14/Amalgam-Linux/workflows/msbuild/master/Amalgamx64Release.zip)
   [![PDB](.github/assets/pdb.svg)](https://nightly.link/cooldog14/Amalgam-Linux/workflows/msbuild/master/Amalgamx64ReleasePDB.zip)
