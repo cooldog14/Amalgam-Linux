@@ -23,6 +23,7 @@ static BOOL CALLBACK TeamFortressWindow(HWND hWindow, LPARAM lParam)
 	{
 	case FNV1A::Hash32Const("Team Fortress 2 - Direct3D 9 - 64 Bit"):
 	case FNV1A::Hash32Const("Team Fortress 2 - Vulkan - 64 Bit"):
+	case FNV1A::Hash32Const("Team Fortress 2 - OpenGL - 64 Bit"):
 		break;
 	default:
 		return TRUE;
